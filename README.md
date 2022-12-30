@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 Second year student at Dr. Ambedkar Institute of Technology
+👩‍💻 A Code Geek
+🌱 I’m currently learning Python 
+📫 You can reach out to me @nisarganishu3112@gmail.com
