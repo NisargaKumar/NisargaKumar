@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 Second year student at Dr. Ambedkar Institute of Technology
+🎓 Final year student at Dr. Ambedkar Institute of Technology
 
-👩‍💻 A Code Geek
+👩‍💻 Aspiring Data Scientist
 
-🌱 I’m currently learning Python 
+🌱 I’m currently Data Analysis, Data Science and tools related to these.
 
-📫 You can reach out to me @nisarganishu3112@gmail.com
+📫 You can reach out to me @nisargakumar02@gmail.com
