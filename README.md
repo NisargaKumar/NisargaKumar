@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 👩‍💻 Aspiring Data Scientist
 
-🌱 I’m currently Data Analysis, Data Science and tools related to these.
+🌱 I’m currently looking for roles of Data Analysis, Data Science and tools related to these.
 
 📫 You can reach out to me @nisargakumar02@gmail.com
